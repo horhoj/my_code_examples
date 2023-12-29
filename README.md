@@ -57,6 +57,8 @@ Frontend: https://github.com/horhoj/store2-front
 
 Исходный код: https://github.com/horhoj/layouts
 
+******************************************
+
 ТЕСТОВОЕ ЗАДАНИЕ С ИСПОЛЬЗОВАНИЕМ ТЕХНОЛОГИИ REDUX_SAGA:
 - Суть задания: Используя публичный АПИ создать SPA для отбражения различных информации о пользователях, постах и комментариях к постам, с обязательным использованием redux-saga
 - Стэк: react, redux-toolkit + redux-saga, sass, typescript, uuid, yup, eslint, prettier
