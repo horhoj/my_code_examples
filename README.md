@@ -4,29 +4,9 @@
 
 GITHUB: https://github.com/horhoj?tab=repositories
 
+******************************************
+
 ДЕМО ПРИЛОЖЕНИЕ 1:
-- Работа с яндекс-картами (построение маршрута по заданным вэйпоинтам, перетаскивание элементов на карте, построение маршрута, добавление/удаление/редактирование/перетаскивание элементов списка вэйпоинтов, примеры тестов).
-- Стэк: typescript, react, redux-toolkit, docker, eslint, prettier + тесты с использованием @testing-library/react
-
-Демо: http://89.108.88.53:84
-
-Исходный код: https://github.com/horhoj/test10_waypoint_list
-
-******************************************
-
-
-ДЕМО ПРИЛОЖЕНИЕ 2:
-
-- собственная реализация календаря событий, не использующая готовые решения. Можно добавлять удалять и редактировать события. Данные храняться в localStorage. Полностью эмулируется работа с АПИ. Только нативные компоненты.
-- Стэк: date-fns, formik, react, redux-toolkit, sass, typescript, uuid, yup, eslint, prettier
-
-Демо: http://89.108.88.53:82
-
-Исходный код: https://github.com/horhoj/project_event_calendar
-
-******************************************
-
-ДЕМО ПРИЛОЖЕНИЕ 3:
 - фулстэк приложение, личный кабинет пользователя, с возможностью регистрации новых пользователей и авторизацией по паролю. (пароль для демо пользователя уже введен, для вашего удобства)
 - бэкенд на PHP Laravel, docker, mariaDB(fork mySql DB), nginx и.т.д. ).
 - фронтенд использует react, redux-toolkit, redux-saga, typescript, yup, formik, i18next, styled-components, axios, Material UI
@@ -38,6 +18,28 @@ GITHUB: https://github.com/horhoj?tab=repositories
 Backend: https://github.com/horhoj/store2-back
 
 Frontend: https://github.com/horhoj/store2-front
+
+ДЕМО ПРИЛОЖЕНИЕ 2:
+- Работа с яндекс-картами (построение маршрута по заданным вэйпоинтам, перетаскивание элементов на карте, построение маршрута, добавление/удаление/редактирование/перетаскивание элементов списка вэйпоинтов, примеры тестов).
+- Стэк: typescript, react, redux-toolkit, docker, eslint, prettier + тесты с использованием @testing-library/react
+
+Демо: http://89.108.88.53:84
+
+Исходный код: https://github.com/horhoj/test10_waypoint_list
+
+******************************************
+
+
+ДЕМО ПРИЛОЖЕНИЕ 3:
+
+- собственная реализация календаря событий, не использующая готовые решения. Можно добавлять удалять и редактировать события. Данные храняться в localStorage. Полностью эмулируется работа с АПИ. Только нативные компоненты.
+- Стэк: date-fns, formik, react, redux-toolkit, sass, typescript, uuid, yup, eslint, prettier
+
+Демо: http://89.108.88.53:82
+
+Исходный код: https://github.com/horhoj/project_event_calendar
+
+
 
 ******************************************
 
