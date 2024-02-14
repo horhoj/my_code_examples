@@ -5,6 +5,17 @@
 GITHUB: https://github.com/horhoj?tab=repositories
 
 ******************************************
+
+Пример простого приложения на VUEJS (COMPOSITION API): фан сайт по "Рики и морти"
+
+- Стэк: vite, vue, typescript, docker(docker-compose), nginx (для раздачи статики билда), eslint + prettier
+
+ДЕМО: https://data-heroes-test.vercel.app/
+
+ИСХОДНЫЙ КОД:  https://github.com/horhoj/data-heroes-test
+
+******************************************
+
 Небольшое тестовое с по созданию системы конфигурируемой фильтрации сообщений. (подробности и ссылка на задание в реадми проекта)
 
 Исходный код: 
