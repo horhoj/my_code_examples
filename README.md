@@ -5,6 +5,16 @@
 GITHUB: https://github.com/horhoj?tab=repositories
 
 ******************************************
+Пример тестового задания с анимацией реализованной без использования библиотек (слайдер реализован через swiper.js согласно техническому заданию)
+
+- стек: webpack, react, typescript, swiper, docker(docker-compose), nginx (для раздачи статики билда), eslint + prettier
+
+ИСХОДНЫЙ КОД: https://github.com/horhoj/project-test-only-2
+
+ДЕМО: https://rain-project-test-only-2.vercel.app/
+
+
+******************************************
 
 Пример простого приложения на VUEJS (COMPOSITION API): фан сайт по "Рики и морти"
 
