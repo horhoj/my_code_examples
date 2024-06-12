@@ -5,6 +5,13 @@
 GITHUB: https://github.com/horhoj?tab=repositories
 
 ******************************************
+Классический туду лист с полной имитацией АПИ и тестами
+
+ИСХОДНЫЙ КОД: https://github.com/horhoj/test_todo_mindbox
+
+ДЕМО: https://test-todo-mindbox.vercel.app/
+
+******************************************
 Пример тестового задания с анимацией реализованной без использования библиотек (слайдер реализован через swiper.js согласно техническому заданию)
 
 - стек: webpack, react, typescript, swiper, docker(docker-compose), nginx (для раздачи статики билда), eslint + prettier
