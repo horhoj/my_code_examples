@@ -5,6 +5,13 @@
 GITHUB: https://github.com/horhoj?tab=repositories
 
 ******************************************
+SPA на чистом JS без фрэймворков
+
+ИСХОДНЫЙ КОД: https://github.com/horhoj/test_main_union_task_2_todo_list
+
+ДЕМО: https://test-main-union-task-2-todo-list.vercel.app/
+
+******************************************
 Классический туду лист с полной имитацией АПИ и тестами
 
 ИСХОДНЫЙ КОД: https://github.com/horhoj/test_todo_mindbox
