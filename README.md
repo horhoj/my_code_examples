@@ -5,6 +5,13 @@
 GITHUB: https://github.com/horhoj?tab=repositories
 
 ******************************************
+Туду лист с бесконечной рекурсивной вложенностью списков туду линейным рендером списков в виде полноценной таблицы и с отрисовкой связей между элементами. С тестами и полноценной эмуляцией слоя АПИ
+
+ИСХОДНЫЙ КОД: https://github.com/horhoj/todo_list_with_unlimited_nesting_of_lists
+
+ДЕМО: https://todo-list-with-unlimited-nesting-of-lists.vercel.app/
+
+******************************************
 SPA на чистом JS без фрэймворков
 
 ИСХОДНЫЙ КОД: https://github.com/horhoj/test_main_union_task_2_todo_list
