@@ -39,9 +39,9 @@ SPA на чистом JS без фрэймворков
 
 - стек: webpack, react, typescript, swiper, docker(docker-compose), nginx (для раздачи статики билда), eslint + prettier
 
-ИСХОДНЫЙ КОД: https://github.com/horhoj/project-test-only-2
+ИСХОДНЫЙ КОД: https://github.com/horhoj/project_animation_test
 
-ДЕМО: https://rain-project-test-only-2.vercel.app/
+ДЕМО: https://project-animation-test.vercel.app
 
 
 ******************************************
