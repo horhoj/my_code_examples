@@ -30,18 +30,11 @@ GITHUB: https://github.com/horhoj?tab=repositories
 ДЕМО: https://todo-list-with-unlimited-nesting-of-lists-vue.vercel.app/main
 
 ******************************************
-SPA на чистом JS без фрэймворков
+ПРИМЕР КОДА НА PHP: PHP 8, docker, Laravel
 
-ИСХОДНЫЙ КОД: https://github.com/horhoj/test_main_union_task_2_todo_list
+https://github.com/horhoj/store2-back
 
-ДЕМО: https://test-main-union-task-2-todo-list.vercel.app/
-
-******************************************
-Классический туду лист с полной имитацией АПИ и тестами
-
-ИСХОДНЫЙ КОД: https://github.com/horhoj/test_todo_mindbox
-
-ДЕМО: https://test-todo-mindbox.vercel.app/
+ОПИСАНИЕ В РЕАДМИ ПРОЕКТА
 
 ******************************************
 
