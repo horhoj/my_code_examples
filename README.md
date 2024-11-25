@@ -22,6 +22,11 @@ GITHUB: https://github.com/horhoj?tab=repositories
 
 ДЕМО: https://todo-list-with-unlimited-nesting-of-lists.vercel.app/
 
+РЕАЛИЗАЦИЯ НА REACT+TAILWIND:
+
+ИСХОДНЫЙ КОД: https://github.com/horhoj/todo_list_with_unlimited_nesting_of_lists_tailwind
+
+ДЕМО: https://todo-list-with-unlimited-nesting-of-lists-tailwind.vercel.app
 
 РЕАЛИЗАЦИЯ НА  VUE:
 
